@@ -360,6 +360,7 @@ footer a:hover {
     .exception-column-container {
         grid-column: 1 / -1;
         flex-direction: row;
+        height: 100%;
     }
 
     .container-create {
